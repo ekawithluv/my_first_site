@@ -1,0 +1,10 @@
+body, h1 
+{
+    margin: 0;
+}
+header 
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
